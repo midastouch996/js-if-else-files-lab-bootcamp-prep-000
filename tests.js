@@ -14,3 +14,4 @@ if (index.height === 70) {
     console.log("Expected: 70, Received: "+index.height)
 }
 var index = requier("./index.js")
+
